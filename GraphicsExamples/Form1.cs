@@ -32,6 +32,7 @@ namespace GraphicsExamples
             g.DrawString("Hello", drawFont, drawBrush, new Rectangle());
 
             g.ResetTransform();
+            //test
 
 
         }
